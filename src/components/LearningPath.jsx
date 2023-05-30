@@ -54,9 +54,9 @@ function LearningPath() {
         );
       })}
       <div className="division-1">
-        <i class="fa fa-facebook"></i>
-        <i class="fa fa-twitter"></i>
-        <i class="fa fa-youtube-play"> </i>
+        <i className="fa fa-facebook"></i>
+        <i className="fa fa-twitter"></i>
+        <i className="fa fa-youtube-play"> </i>
       </div>
       <div className="divided">
         <h3 className=" overflow-hidden">Terms of Use</h3>
