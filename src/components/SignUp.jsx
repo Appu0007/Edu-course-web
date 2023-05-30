@@ -93,7 +93,7 @@ function SignUp() {
               onChange={handlechange}
             />
             <p className="input-error">{formerrors.password}</p>
-            <button  className="valid-input" >submit</button>
+            <button className="valid-input">submit</button>
           </div>
         </form>
       </div>

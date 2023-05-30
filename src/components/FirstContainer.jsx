@@ -3,7 +3,7 @@ import React from "react";
 function FirstContainer() {
   return (
     <div className="landing-div">
-      <div class="custom-shape-divider-top-1683978539">
+      <div className="custom-shape-divider-top-1683978539">
         <svg
           data-name="Layer 1"
           xmlns="http://www.w3.org/2000/svg"
@@ -12,7 +12,7 @@ function FirstContainer() {
         >
           <path
             d="M0,0V6c0,21.6,291,111.46,741,110.26,445.39,3.6,459-88.3,459-110.26V0Z"
-            class="shape-fill"
+            className="shape-fill"
           ></path>
         </svg>
       </div>
