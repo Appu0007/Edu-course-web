@@ -36,7 +36,7 @@ function NodeCourses() {
             return (
               <div className="content-box">
                 <div className="name1 ">
-                  <i class="fa fa-check"></i>
+                  <i className="fa fa-check"></i>
                   <span className="para">{vid.name}</span>
                 </div>
               </div>

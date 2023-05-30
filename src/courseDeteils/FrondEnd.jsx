@@ -10,7 +10,7 @@ function FrondEnd() {
           <p>
             Every web or mobile application has two parts: a front-end and a
             back-end. The front-end is what the user sees and interacts with.
-            It’s the app on your phone or the website you visit. So, front-end
+            It's the app on your phone or the website you visit. So, front-end
             developers are in charge of building beautiful, interactive user
             interfaces. The average salary for a front-end Developer is $102,768
             per year in the United States. Here are the courses I've created to
@@ -78,7 +78,7 @@ function FrondEnd() {
           </p>
           <Link className="division" to={"/CourceReact"}>
             ViewCourse
-          </Link>{" "}
+          </Link>
         </div>
       </div>
     </div>
